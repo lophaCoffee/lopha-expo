@@ -170,3 +170,8 @@ button,a,input,select,textarea{touch-action:manipulation}
 
 /* Keep slideshow controls above the fixed mobile quick-navigation. */
 @media(max-width:560px){.hero-upgraded .hero-controls{bottom:100px}}
+
+/* Updated 10 distinctive agricultural category stand photos - 2026-11-06 */
+.cat-photo {aspect-ratio:1.08}
+.cat-photo img {object-position:50% 9%}
+.cat-card:hover .cat-photo img {transform:scale(1.055)}
